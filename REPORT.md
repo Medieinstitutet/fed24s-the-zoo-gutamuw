@@ -72,8 +72,8 @@ Ha roligt, skratta och lär er massor!
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\reducers\animalReducer.ts - no-unused-vars - 'LOADED' is defined but never used.,no-unused-vars - 'FED' is defined but never used.
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\services\animalsService.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla krav, inklusive de för VG. Applikationen använder en router med layouts och child-routes, hanterar state med useReducer och context API, och hanterar djurens status enligt specificerade tidslogiker. Styling är genomförd med SCSS, och trasiga länkar hanteras korrekt. Animeringar är inkluderade och ger en förbättrad användarupplevelse.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** Tekniskt fel vid AI-analys. Kontrollera manuellt.
 
 💡 **Förbättringsförslag:**  
-Koden har god struktur och är lättförståelig. Ett förslag på förbättring är att optimera felhanteringen vid datainhämtning genom att till exempel visa en användarvänlig meddelande om nätverksproblem. Annars behövs inga större förbättringar.
+Automatisk rättning med AI-assistant misslyckades. Vänligen kontrollera koden manuellt.
