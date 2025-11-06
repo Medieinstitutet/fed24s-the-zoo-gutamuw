@@ -72,8 +72,8 @@ Ha roligt, skratta och lär er massor!
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\reducers\animalReducer.ts - no-unused-vars - 'LOADED' is defined but never used.,no-unused-vars - 'FED' is defined but never used.
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\services\animalsService.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: VG**
-📌 **Motivering:** Projektet uppfyller alla krav som ställts för både betyg G och VG. Det används avancerade tekniker som context och reducers, hanterar bilder på ett bra sätt, och har en genomtänkt layout och stil med SCSS och animering.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** Tekniskt fel vid AI-analys. Kontrollera manuellt.
 
 💡 **Förbättringsförslag:**  
-I framtida projekt kan ytterligare anpassningar göras i responsivitet och UI-optimering för olika enheter, samt förbättra prestandan vid datahämtning.
+Automatisk rättning med AI-assistant misslyckades. Vänligen kontrollera koden manuellt.
