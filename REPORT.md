@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-gutamuw
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,14 +65,13 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\contexts\AnimalsContext.ts - no-unused-vars - 'action' is defined but never used.
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\reducers\animalReducer.ts - no-unused-vars - 'LOADED' is defined but never used.,no-unused-vars - 'FED' is defined but never used.
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\services\animalsService.ts - no-console - Unexpected console statement.
 
-## 🏆 **Betyg: IG**
-📌 **Motivering:** Tekniskt fel vid AI-analys. Kontrollera manuellt.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Projektet uppfyller alla krav för både G och VG. Routern används för att visa olika sidor i applikationen med korrekt användning av layouts och child-routes【6:11†Routes.tsx.txt】. Översiktssidan för djuren är klickbar och visar den nödvändiga informationen【6:0†Animals.tsx.txt】. Mat-knappen fungerar enligt specifikationen på djur-detaljsidan【6:15†AnimalView.tsx.txt】. Felaktiga bildlänkar hanteras korrekt genom att ersättas【6:2†AnimalCard.tsx.txt】. Styling är genomförd med SCSS och delvis framer-motion för animering【6:0†Animals.tsx.txt】【6:1†App.tsx.txt】. Custom hooks och context API används för att hämta och hantera data【6:1†App.tsx.txt】. Reducers används istället för state för djurhantering【6:1†App.tsx.txt】.
 
 💡 **Förbättringsförslag:**  
-Automatisk rättning med AI-assistant misslyckades. Vänligen kontrollera koden manuellt.
+Koden är välgjord och uppfyller specifikationerna. En förbättring skulle vara att inkludera mer omfattande tester för att säkerställa att alla funktionaliteter fungerar som förväntat under olika förhållanden. Detta skulle hjälpa till med underhållbarhet och robusthet i projektet.
