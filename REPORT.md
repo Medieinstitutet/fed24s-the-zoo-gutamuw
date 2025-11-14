@@ -71,7 +71,15 @@ Ha roligt, skratta och lär er massor!
 - C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\services\animalsService.ts - no-console - Unexpected console statement.
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller de grundläggande kraven för betyg G. Koden är organiserad på ett logiskt sätt och använder en router för att hantera olika sidor. Det finns en översiktssida för djuren där användaren kan klicka på ett djur för att se mer detaljer. Felaktiga bildlänkar hanteras korrekt och en annan teknik än ren CSS används för styling. Dock saknas några av de mer avancerade kraven för betyg VG, såsom användning av context och reducers, samt subtila animeringar.
+📌 **Motivering:** Projektet uppfyller de grundläggande kraven för betyg G. Studenten har implementerat en router för att navigera mellan olika sidor och hanterar trasiga bildlänkar korrekt. Funktionaliteten för att mata djur finns, och styling har implementerats med en teknik utöver ren CSS. Dock saknas vissa avancerade funktioner som krävs för betyg VG, såsom användning av context API och reducers, samt subtila animeringar och förbättrad användarupplevelse.
 
 💡 **Förbättringsförslag:**  
-För att uppnå betyg VG bör projektet använda context istället för props för komponentkommunikation och reducers istället för state för djurhantering. Det bör också finnas subtila animeringar vid interaktioner och sidladdningar. Förbättrad kodkommentarering och enhetliga namngivningskonventioner skulle också bidra till bättre kodkvalitet.
+För att uppnå betyg VG och förbättra projektet rekommenderas följande förbättringar:
+
+1. **Datahantering**: Implementera context API och reducers för att hantera globalt tillstånd och djurdata mer effektivt. Detta kommer att minska beroendet av props och förbättra kodens skalbarhet.
+
+2. **Användarupplevelse**: Lägg till subtila animeringar vid knapptryckningar, sidladdningar och route-förändringar för att skapa en mer engagerande användarupplevelse.
+
+3. **Funktionalitet**: Säkerställ att matningsknappen och djurens status på översiktssidan uppdateras korrekt enligt de specificerade tidsreglerna. Implementera en robust error handling för nätverksanrop och bildladdning.
+
+4. **Kodstruktur och Organisation**: Förbättra kodstrukturen genom att använda en tydligare mappstruktur för att separera komponenter, hooks, context och reducer-filer. Detta kommer att förbättra kodens läsbarhet och underhållbarhet.
