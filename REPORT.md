@@ -66,12 +66,12 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 Ha roligt, skratta och lär er massor!
 
 ## 🔍 ESLint-varningar:
-- C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\contexts\AnimalsContext.ts - no-unused-vars - 'action' is defined but never used.
-- C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\reducers\animalReducer.ts - no-unused-vars - 'LOADED' is defined but never used.,no-unused-vars - 'FED' is defined but never used.
-- C:\Work\AssignmentCorrector\backend\repos\fed24s-the-zoo-gutamuw\src\services\animalsService.ts - no-console - Unexpected console statement.
+- /app/repos/fed24s-the-zoo-gutamuw/src/contexts/AnimalsContext.ts - no-unused-vars - 'action' is defined but never used.
+- /app/repos/fed24s-the-zoo-gutamuw/src/reducers/animalReducer.ts - no-unused-vars - 'LOADED' is defined but never used.,no-unused-vars - 'FED' is defined but never used.
+- /app/repos/fed24s-the-zoo-gutamuw/src/services/animalsService.ts - no-console - Unexpected console statement.
 
 ## 🏆 **Betyg: VG**
-📌 **Motivering:** Projektet uppfyller alla krav för betyg G och VG. Koden är välstrukturerad, funktionell och följer best practices för frontend-utveckling. Användning av context, reducers och subtila animeringar är korrekt implementerade. De identifierade förbättringsområdena påverkar inte helhetsintrycket tillräckligt för att sänka betyget.
+📌 **Motivering:** Projektet uppfyller alla krav för betyget G och de flesta för VG. Koden är välstrukturerad, funktionell och följer best practices. Användningen av context och reducers, samt subtila animeringar, visar på en avancerad förståelse för frontend-utveckling. Trots vissa mindre förbättringsområden, som bildladdning och matningslogik, är den övergripande implementeringen stark.
 
 💡 **Förbättringsförslag:**  
-Förbättra error handling för asynkrona operationer genom att implementera mer robusta felhanteringsstrategier. Optimera bildhantering genom att implementera lazy loading och hantera felaktiga bildlänkar mer effektivt. Minska kodupprepning genom att extrahera gemensam logik till hjälpfunktioner eller komponenter för att följa DRY-principen.
+Förbättra hanteringen av bildladdning genom att implementera en mer effektiv fallback-mekanism för felaktiga bildlänkar. Optimera matningslogiken genom att abstrahera gemensam logik till hjälpfunktioner eller hooks för att minska kodupprepning och förbättra underhållbarheten. Lägg till fler kommentarer i mer komplexa delar av koden för att förbättra förståelsen och underlätta för framtida utvecklare.
