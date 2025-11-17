@@ -71,7 +71,7 @@ Ha roligt, skratta och lär er massor!
 - /app/repos/fed24s-the-zoo-gutamuw/src/services/animalsService.ts - no-console - Unexpected console statement.
 
 ## 🏆 **Betyg: VG**
-📌 **Motivering:** Projektet uppfyller alla krav för betyget G och de flesta för VG. Koden är välstrukturerad, funktionell och följer best practices. Användningen av context och reducers, samt subtila animeringar, visar på en avancerad förståelse för frontend-utveckling. Trots vissa mindre förbättringsområden, som bildladdning och matningslogik, är den övergripande implementeringen stark.
+📌 **Motivering:** Projektet uppfyller alla krav för både G och VG. Koden är välstrukturerad och visar en god förståelse för avancerade koncept inom React, såsom användning av context API, reducers och tjänster för datahämtning. Studenten har implementerat en routerlösning med layouts, child-routes och error-element korrekt. Dessutom är hanteringen av trasiga bildlänkar och subtila animeringar väl genomförda. Den tekniska kvaliteten är hög och uppfyller alla specificerade krav.
 
 💡 **Förbättringsförslag:**  
-Förbättra hanteringen av bildladdning genom att implementera en mer effektiv fallback-mekanism för felaktiga bildlänkar. Optimera matningslogiken genom att abstrahera gemensam logik till hjälpfunktioner eller hooks för att minska kodupprepning och förbättra underhållbarheten. Lägg till fler kommentarer i mer komplexa delar av koden för att förbättra förståelsen och underlätta för framtida utvecklare.
+För att ytterligare förbättra koden kan studenten lägga till fler kommentarer för att öka läsbarheten och underlätta för framtida utvecklare. Säkerställ att alla komponenter använder TypeScript för att definiera sina props, vilket kan förbättra typkontrollen och minska risken för buggar. Överväg att använda en mer robust felhantering vid API-anrop, till exempel genom att visa ett användarvänligt meddelande om något går fel vid hämtning av djurdata.
